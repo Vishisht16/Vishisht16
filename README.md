@@ -15,32 +15,27 @@
 <details>
 <summary><b>Here's a bit about me...</b></summary>
 
-I’m a CS Sophomore in Central University of Haryana, proficient in PyTorch and TensorFlow. I have practical experience with prompt engineering and LLM development and have always been a person driven towards learning new things. Learning is my forte and I have an aim to somehow contribute significantly in the field of AI, to which I’m greatly dedicated.
+I’m a CS Pre-Final Student in Central University of Haryana, proficient in Deep Learning frameworks and cloud computing. I have practical experience with prompt engineering and RAG agent development and have always been a person driven towards learning new things. Learning is my forte and I have an aim to somehow contribute significantly in the field of AI, to which I’m greatly dedicated.
 
 
 <details><summary><b>Interests 💡</b></summary>
-I'm always learning something. I try to keep up with AI news and advancements and try to experiment with models stuff. A lot of times, I'm just brainstorming ideas on how I could make something actually useful to people with my limited resources. I also try to explore more of cloud computing domain as I'm getting into that.
+I'm always learning something. I try to keep up with AI news and advancements and try to experiment with models stuff. A lot of times, I'm just brainstorming ideas on how I could make something actually useful to people with my limited resources. I also try to explore more of DevOps domain as I'm getting into that.
 </details>
 
-<details><summary><b>Project 🛠️</b></summary>
+<details><summary><b>Project Work🛠️</b></summary>
 
-<li> Currently working on a personal website and implementing an AI architecture (with maximum open-source tools) that's adept at document understanding and would be helpful to researchers and such people in general, with potential of adding coding support in the future.
-<li> Also working on a 'development copilot' at my current company to build a personalized LLM for developers working at client companies.
+<li> My recent projects involve generative AI, creating agents, while I'm slowly transitioning into DevOps.
+<li> Also working as a Cloud Engineer at my current organisation where I'm collaborating with other projects, managing services on Azure and handling the infra of their E-commerce platform (in development).
 
 </details>
 
 <details><summary><b>Research Work 🔬</b></summary>
 
-<li> Collaborating with linguists and working on a research project to build AI models on lesser-known languages in India, ensuring that they are preserved and accessible.
+<li> CWorking on a research project to build AI models on lesser-known languages in India, ensuring that they are preserved and accessible.
 <li> End-to-end work includes data collection, preprocessing, model training with custom algorithms and deployment to create models for various purposes.
 
 </details>
 
-<details> <summary><b>Future Goals 🌱</b></summary>
-
-My future goals include finishing my current projects and passing some certification exams in the near future on databases and cloud. I also plan to transition into cybersecurity by my 6th semester. Eventually, I want to work in a team on some big project with many end-users when I get a chance.
-
-</details>
 
 
 </details>
